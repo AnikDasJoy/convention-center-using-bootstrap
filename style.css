@@ -1,0 +1,13 @@
+body {
+    max-width: 1350px;
+    margin: 0 auto;
+}
+
+.navbar {
+    height: 50px;
+    background: #ffffff;
+}
+
+.top-banner {
+    margin-top: 80px;
+}
